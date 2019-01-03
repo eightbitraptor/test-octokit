@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    byebug (10.0.2)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     multipart-post (2.0.0)
@@ -17,6 +18,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   octokit
 
 BUNDLED WITH
